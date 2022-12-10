@@ -2,4 +2,4 @@
 
 Instrutor: [Prof. Thiago A. S. Pardo](https://sites.icmc.usp.br/taspardo/)
 
-Exercícios e projetos feitos por [Jessica Silva](https://www.linkedin.com/in/leaojjessica/), em maio de 2021.
+Exercícios e projetos feitos por [Jessica Silva](https://www.linkedin.com/in/ssilvajessica/), em maio de 2021.
